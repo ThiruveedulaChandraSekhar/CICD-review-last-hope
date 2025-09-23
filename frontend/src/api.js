@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Configure the base URL for your Spring Boot backend
-const API_BASE_URL = 'http://3.91.52.79:8083/api';
+const API_BASE_URL = 'http://44.220.141.0:8083/api';
 
 
 // Create axios instance with default config
